@@ -1,5 +1,3 @@
-# AI-Generated Resolutions of Open Problems in Learning Theory and Commutative Algebra
-
 This repository collects resolutions of a number of open problems from the COLT
 open-problem track,
 [commutative ring theory](https://www2.math.uconn.edu/~glaz/Publications_Selected%20Articles/OpenProblemsInCommutativeRingTheory.Springer14.pdf),
