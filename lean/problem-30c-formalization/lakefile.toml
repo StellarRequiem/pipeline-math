@@ -1,0 +1,23 @@
+name = "Prob30c"
+version = "0.1.0"
+keywords = ["math"]
+defaultTargets = ["Prob30c"]
+
+[leanOptions]
+pp.unicode.fun = true # pretty-prints `fun a ↦ b`
+relaxedAutoImplicit = false
+weak.linter.mathlibStandardSet = true
+maxSynthPendingDepth = 6
+# The quotient model `A q = MvPolynomial (Fin 3) D ⧸ Arel q` together with its
+# `Submodule D` layers (`sComponent`/`tSComponent`) and `D`-coordinate calculus
+# drives deep instance searches (`Algebra D (A q)`, `Module D (A q)`); raise the
+# synthesis budget so the frozen statements elaborate.
+synthInstance.maxHeartbeats = 1000000
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.31.0"
+
+[[lean_lib]]
+name = "Prob30c"

@@ -1,0 +1,4 @@
+# SHA-256 pins of the frozen sources (Defs.lean + Theorems.lean).
+# Format: "<sha256>  <relative/path>" — read by scripts/verify.sh Check 1.
+9d48cfc2129b80578fbac7dbb73ad572b5a8034367963a5008fc4a91b6e18511  Prob20/Defs.lean
+e6bc609d7d22673fd8ffd969f4e553c6342fa1424962c1794890a1b8a065b311  Prob20/Theorems.lean

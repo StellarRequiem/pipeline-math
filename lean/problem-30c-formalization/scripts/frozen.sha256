@@ -1,0 +1,4 @@
+# SHA-256 pins of the frozen sources (Defs.lean + Theorems.lean).
+# Recorded by the SETUP/init stage; verify.sh Check 1 enforces these.
+54c287792652055aa00f4e93a163681d8b8a28d4948f9978c9965f9b7c60786a  Prob30c/Defs.lean
+18e4a74185593a5df7abf03123a6ce49b4e6850b35cbd1d97342978a56bcdac3  Prob30c/Theorems.lean
