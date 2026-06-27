@@ -10,8 +10,7 @@ prover–verifier pipeline; the papers are assembled with Claude Code, then
 polished and verified by the authors.
 
 **Formalization.** We also formalize the commutative ring theory solutions in
-Lean using our agentic Lean formalization pipeline (linked below; source only,
-`.lake` build artifacts excluded).
+Lean using our agentic Lean formalization pipeline, fully automated, open source soon!
 
 
 ## Open problems answered
@@ -24,7 +23,7 @@ merged into a single paper over time.
 
 - **Shuffled SGD — the SS–RS–GD inequalities** (Yun, Sra, Jadbabaie, COLT 2021) — [paper](papers/ss-rs-gd.pdf)
 - **Learning measured-output quantum circuits** (Kun and Reyzin, COLT 2015) - [paper](papers/quantum-circuit-viq.pdf) (Partial solution).
-- **Unweighted data selection for linear regression** (Hanneke, Moran, Shlimovich, Yehudayoff, COLT 2025) — [paper](papers/data-selection.pdf)
+- **Unweighted data selection for linear regression** (Hanneke, Moran, Shlimovich, Yehudayoff, COLT 2025) — [paper](papers/data-selection.pdf) (Problem 3)
 - **Robust conditional probability estimation** (Langford, COLT 2010) — [paper](papers/conditional-probability.pdf)
 
 ### FOCS 2023 (authors' own open question)
