@@ -36,3 +36,6 @@ merged into a single paper over time.
 - **Problem 20** (Cahen–Fontana–Frisch–Glaz) — [paper](papers/tensor.pdf), [Lean](lean/problem-20-formalization/)
 - **Problem 27:** integer-valued polynomials over algebras (Werner) — [paper](papers/noncomm.pdf), [Lean (27b)](lean/problem-27b-form/)
 - **Problem 30(c)** — [paper](papers/absorb.pdf), [Lean](lean/problem-30c-formalization/)
+
+### Erd\H{o}s problems
+- **Problem 477:** tiling complement 
