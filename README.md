@@ -38,4 +38,4 @@ merged into a single paper over time.
 - **Problem 30(c)** — [paper](papers/absorb.pdf), [Lean](lean/problem-30c-formalization/)
 
 ### Erd\H{o}s problems
-- **Problem 477:** tiling complement 
+- **Problem 477:** tiling complement  — [paper](papers/tiling-complement.pdf)
