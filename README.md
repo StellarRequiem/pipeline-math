@@ -37,5 +37,5 @@ merged into a single paper over time.
 - **Problem 27:** integer-valued polynomials over algebras (Werner) — [paper](papers/noncomm.pdf), [Lean (27b)](lean/problem-27b-form/)
 - **Problem 30(c)** — [paper](papers/absorb.pdf), [Lean](lean/problem-30c-formalization/)
 
-### Erd\H{o}s problems
+### Erdős problems
 - **Problem 477:** tiling complement  — [paper](papers/tiling-complement.pdf)
